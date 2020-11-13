@@ -1,0 +1,48 @@
+Zone,Ward Office Name,ward,Prabhag_name,Cases,Active,Recovered,Percentage_Recovered,Growth_Rate
+1,Dhole Patil Road,20,20 Tadiwala Road - Sassoon Hospital,6232,32,67.44,2483,0.66
+1,Dhole Patil Road,21,21 Koregaon Park - Ghorpadi,6232,32,67.44,2483,0.66
+2,Bhawani Peth,17,17 Rasta Peth - Ravivar Peth,5528,24,56.07,1552,1.03
+2,Bhawani Peth,18,18 Kahdakmal Aali - Mahatma Phule Peth,5528,24,56.07,1552,1.03
+2,Bhawani Peth,19,19 - Lohiya Nagar - Kasewadi,5528,24,56.07,1552,1.03
+3,Yerawada-Kalas-Dhanori,1,1 Kalas - Dhanori,6606,43,61.74,1749,1
+3,Yerawada-Kalas-Dhanori,2,2 Phule Nagar - Nagpur Chawl,6606,43,61.74,1749,1
+3,Yerawada-Kalas-Dhanori,6,6 Yerwada,6606,43,61.74,1749,1
+4,Kasba - Vishrambaugwada,15,15 Sadashiv Peth - Shaniwar Peth,9186,21,71.65,3132,1.27
+4,Kasba - Vishrambaugwada,16,16 Kasba Peth - Somwar Peth,9186,21,71.65,3132,1.27
+4,Kasba - Vishrambaugwada,29,29 Navi Peth - Parwati,9186,21,71.65,3132,1.27
+5,Shivajinagar-Ghole Road,14,14 Deccan Gymkhana - Model Colony,4790,16,59.72,1465,1.09
+5,Shivajinagar-Ghole Road,7,7 Pune University - Wakadewadi,4790,16,59.72,1465,1.09
+6,Bibwewadi,28,28 Salisbury Park - Maharshi Nagar,7192,51,54.82,1616,1.29
+6,Bibwewadi,36,36 Market Yard - Lower Indiranagar,7192,51,54.82,1616,1.29
+6,Bibwewadi,37,37 Upper Super Indiranagar,7192,51,54.82,1616,1.29
+7,Wanawadi - Ramtekadi,24,24 Ramtekdi - Sayyad Nagar,4635,40,61.41,1372,0.98
+7,Wanawadi - Ramtekadi,25,25 Vanwadi,4635,40,61.41,1372,0.98
+7,Wanawadi - Ramtekadi,27,27 Kondhwa Khurd - Meetha Nagar,4635,40,61.41,1372,0.98
+8,Dhankawadi - Sahakarnagar,35,35 Sahakarnagar - Padmavati,10612,70,28.59,882,1.58
+8,Dhankawadi - Sahakarnagar,39,39 Dhankawadi - Ambegaon Pathar,10612,70,28.59,882,1.58
+8,Dhankawadi - Sahakarnagar,40,40 Ambegaon Datta Nagar - Katraj Gaothan,10612,70,28.59,882,1.58
+8,Dhankawadi - Sahakarnagar,42,42 Newly 11 added villages,10612,70,28.59,882,1.58
+9,Nagar Road - Vadgaonsheri,3,3 Viman Nagar - Somnath Nagar,8456,77,33.05,750,1.61
+9,Nagar Road - Vadgaonsheri,4,4 Kharadi - Chandan Nagar,8456,77,33.05,750,1.61
+9,Nagar Road - Vadgaonsheri,42,42 Newly 11 added villages,8456,77,33.05,750,1.61
+9,Nagar Road - Vadgaonsheri,5,5 Vadgaon Sheri - Kalyani Nagar,8456,77,33.05,750,1.61
+10,Hadapsar - Mundhwa,22,22 Mundhwa - Magarpatta City,10935,87,45.05,1674,1.42
+10,Hadapsar - Mundhwa,23,23 Hadapsar Gaothan - Satavwadi,10935,87,45.05,1674,1.42
+10,Hadapsar - Mundhwa,26,26 Mahammadwadi - Kasar Baug,10935,87,45.05,1674,1.42
+10,Hadapsar - Mundhwa,42,42 Newly 11 added villages,10935,87,45.05,1674,1.42
+11,Kondhwa - Yewalewadi,38,38 Balaji Nagar - Rajiv Gandhi Nagar,5265,39,57.1,1046,1.48
+11,Kondhwa - Yewalewadi,41,41 Kondhawa Budruk - Yewalewadi,5265,39,57.1,1046,1.48
+11,Kondhwa - Yewalewadi,42,42 Newly 11 added villages,5265,39,57.1,1046,1.48
+12,Sinhagad Road,30,30 Janata Vasahat - Dattawadi,8267,57,62.31,1837,1.56
+12,Sinhagad Road,33,33 Vadgaon Dhayari - Vadgaon Budruk,8267,57,62.31,1837,1.56
+12,Sinhagad Road,34,34 Suncity - Hingane Khurd,8267,57,62.31,1837,1.56
+12,Sinhagad Road,42,42 Newly 11 added villages,8267,57,62.31,1837,1.56
+13,Warje - Karvenagar,13,13 Erandwana - Happy Colony,8457,46,45.74,1289,1.59
+13,Warje - Karvenagar,31,31 Karve Nagar,8457,46,45.74,1289,1.59
+13,Warje - Karvenagar,32,32 Warje - Malwadi,8457,46,45.74,1289,1.59
+13,Warje - Karvenagar,42,42 Newly 11 added villages,8457,46,45.74,1289,1.59
+14,Kothrud - Bawdhan,10,10 Bavdhan - Kothrud Depot,7121,43,62.76,1571,1.51
+14,Kothrud - Bawdhan,11,11 Rambaug Colony - Shivtirth Nagar,7121,43,62.76,1571,1.51
+14,Kothrud - Bawdhan,12,12 Mayur Colony - Dahanukar Colony,7121,43,62.76,1571,1.51
+15,Aundh - Baner,8,8 Aundh - Bopodi,5023,56,50.49,828,1.62
+15,Aundh - Baner,9,9 Baner - Balewadi - Pashan,5023,56,50.49,828,1.62
