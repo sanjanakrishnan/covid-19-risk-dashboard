@@ -1,3 +1,8 @@
+![Bower](https://img.shields.io/bower/l/html)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues-raw/sanjanakrishnan/covid-19-dashboard)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/sanjanakrishnan/covid-19-dashboard)
+
+
 # covid-19-dashboard
 
 
