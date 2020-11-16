@@ -27,7 +27,6 @@ To visualize the data, the graphic library D3.js is used. D3.js is an industry l
 - data :- csv files 
 - js :- java scripts; main.js is function library 
 - css: - stylesheet and it’s images in respective folders 
-- fonts :- font files, ionicon 
 - img :- photos. 
 
 
