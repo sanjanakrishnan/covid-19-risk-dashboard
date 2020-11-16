@@ -3,7 +3,7 @@ A disaster risk framework was adopted to understand the ward level risk in Pune 
 _(Hazard* Vulnerability)/ Capacity_
 We used 15 indicators to capture the Hazard, Vulnerability and Capacity.
 
-For details and sources of the data and choice of indicators, please refer to the document on (Supplementary data)
+For details and sources of the data and choice of indicators, please refer to the document on [Supplementary data](https://github.com/sanjanakrishnan/covid-19-dashboard/blob/main/Pune_supplementary%20data.pdf)
 
 This document provides details on how to update data for the dashboard. Please refer to the structure of the individual .csv before uploading. The data and charts used in this demo can be easily modified with a few changes to the code.
 
