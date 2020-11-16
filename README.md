@@ -31,6 +31,13 @@ To visualize the data, the graphic library D3.js is used. D3.js is an industry l
 - img :- photos. 
 
 
+## Note on data
+- Information on choice of indicators and data sources- [Pune Supplementary data](https://github.com/sanjanakrishnan/covid-19-dashboard/blob/main/Pune_supplementary%20data.pdf)
+- [Folder](https://github.com/sanjanakrishnan/covid-19-dashboard/tree/main/data) containing csv files
+- How to [update dashboard data](https://github.com/sanjanakrishnan/covid-19-dashboard/blob/main/data-update.md)
+- Data and method for [slum mapping](https://github.com/sanjanakrishnan/IDAIR-Risk-dashboard-data/blob/main/slum_mapping.md)
+
+
 ### Want to contribute?
 
 If you want to contribute through code or documentation, the [contributing guide](https://github.com/sanjanakrishnan/covid-19-dashboard/blob/main/CONTRIBUTING.md) is the best place to start. If you have questions, feel free to ask.
