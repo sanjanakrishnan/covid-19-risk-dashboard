@@ -5,7 +5,7 @@ The dashboard can be updated with 9 files
 1. The shapefile/geojson: We use the geojson for [Pune city](https://github.com/sanjanakrishnan/covid-19-dashboard/blob/main/data/pune-electoral-wards_current.geojson) produced by [DataMeet Pune]{https://github.com/datameet/Municipal_Spatial_Data/tree/master/Pune} for this dashboard. For a different city, please use the required geojson and ensure that the data is mapped to the correct ward boundaries. In main-2.js, the authors combine several wards to form the revised ward boundaries for the city.
 
 2. The data related to cases/hazards can be found in 4 csvs with the prefix "C."
-![Screenshot](Screenshot 2020-11-16 at 5.54.17 PM.png)
+![Screenshot](https://github.com/sanjanakrishnan/covid-19-dashboard/blob/main/img/Screenshot%202020-11-16%20at%205.54.17%20PM.png)
 
 - C-1-ward_map.csv: update daa related to the ward level cases, recoveries, growth rate
 - C.2.2.city_trajectory.csv: update data on the city level trajectory over time
