@@ -1,8 +1,6 @@
 # How To Contribute
 
-We are really glad you're reading this, because we need global collaborators to help this project come to fruition.
-
-## Our Vision for Collaborations
+We are really glad you're reading this. Please reach out for specific questions. 
 
 ## Suggesting Changes
 If you've noticed a bug or have a feature request, [make one](https://github.com/sanjanakrishnan/covid-19-dashboard/issues/new)! It's generally best if you get confirmation of your bug or approval for your feature request this way before starting to code.
@@ -28,11 +26,7 @@ $ git commit -m "A brief summary of the commit
 Start reading our code and you'll get the hang of it. It is pretty straightforward:
 
 > - This is open source software. Consider the people who will read your code, and make it look nice for them. Please add readable and understandable comments.
-> - Please ask hrishikesh to add. 
 
-## Testing 
-
-Please ask hrishikesh to add. (if nothing to add feel free to delete)
 
 ## Get the style right
 
