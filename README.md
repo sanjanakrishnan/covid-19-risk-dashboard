@@ -18,7 +18,7 @@ This repository provides
 ## Software Architecture
 The dashboard uses HTML, CSS and JavaScript to form the front-end design, data visualizations, style and interactivity. 
 
-To visualize the data, the graphic library D3.js is used. D3.js is an industry leader when it comes to data visualization. D3’s emphasis on web standards resulting in usage of the full capabilities of modern browsers without tying oneself to a proprietary framework, combining powerful visualization components and a data-driven approach to Document Object Model (DOM) manipulation. It has minimal overhead, is extremely fast, and supports large datasets and dynamic behavior for interaction and animation. The source code of D3 is freely available and can be reused provided the copyright is acknowledged.
+To visualize the data, the graphic library D3.js is used. D3.js is an industry leader when it comes to data visualization. D3’s emphasis on web standards resulting in usage of the full capabilities of modern browsers without tying oneself to a proprietary framework, combining powerful visualization components and a data-driven approach to Document Object Model (DOM) manipulation. It has minimal overhead, is extremely fast, and supports large datasets and dynamic behavior for interaction and animation.
 
 
 ## Folder Structure 
