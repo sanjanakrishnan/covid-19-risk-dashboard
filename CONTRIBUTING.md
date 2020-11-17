@@ -36,4 +36,4 @@ If you wish to add a feature, your patch should follow the same conventions & pa
 
 Please refer to [Stories and Statistics: A multidimensional risk dashboard for COVID-19](http://i-dair.org/wp-content/uploads/2020/09/2.-Pune-report_CPC-and-IDAIR-merged.pdf) to understand our vision, motivations and goals. 
 
-For suggestions beyond development please reach out to: 
+For suggestions beyond development please reach out to: s.krishnan@cpc-analytics.com
